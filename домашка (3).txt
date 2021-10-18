@@ -8,7 +8,7 @@ GitHub. HW_2
 - Charles
 - Mobile testing
 
-2. Запушить все ветки на внешний репозиторий - git add . 
+2. Запушить все ветки на внешний репозиторий - git push -u origin --all
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта - touch bag1.txt
 4. Запушить структуру багрепорта на внешний репозиторий - git add . 
 5. Вмержить ветку Bag Reports в Main - (делается из ветки main) git merge bagreports а дальше стандартная процедура git add ифп1.txt && git commit -m "comment"
