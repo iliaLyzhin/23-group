@@ -3,6 +3,6 @@ Title:
 Environment:
 Precondition:
 STR:
-AR
-ER
+AR:
+ER:
 Attacment:
